@@ -1,0 +1,3 @@
+En este trabajo práctico se realizaron 2 tests para trabajar con el P.W.M.
+En el TEST_1 se trabajó con un pulso con un ciclo de trabajo del 50%
+En el TEST_2 se trabajó con un pulso con un ciclo de trabajo del 25%, con una tensión eficaz menor y por ejde con una luz más tenue que la del TEST_1. 
